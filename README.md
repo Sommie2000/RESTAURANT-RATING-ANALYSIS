@@ -88,75 +88,116 @@ The dashboard presents key performance indicators and interactive visualizations
 
 
 ### KEY INSIGHT
-1.  Agree and Disagree response by Questions 
-> The question respondents agree  with the most is:
-- My department is inclusive and demonstrate support of a diverse workforce with total number of 663 
-> The question respondents disagree with the most is:
-- I  have a best friend at work, with total number of  469 
+1.	What can you learn from the highest-rated restaurants? Do consumer preferences have an effect on ratings?
+   The top 5 restaurants by Average Overall rating include: 
+-	Michiko Restaurant Japones (The highest overall rating) 
+-	Restaurants La Parroquia 
+-	La Cochinita Pibil Restaurante
+-	Mari’s is El Pescador 
+-	Restaurant Bar Hacienda 
 
+   Insight  
 
+1.	Strong Food Quality: Restaurants with the highest overall ratings consistently share several characteristics and also tend to score highly on food ratings. This indicates that food quality remains the primary factor influencing customer satisfaction.
+2.	Excellent Service Quality: Restaurants with strong service ratings also maintain higher overall ratings.Customers appreciate; 
+-	 Fast service
+-	Friendly Staff
+-	 Professional treatment
+-	 Prompt issue resolution. 
+A restaurant can lose customers despite having excellent food if service delivery is poor.
+3.	Better Amenities: Many top-rated restaurants provide:
+-	Parking facilities
+-	Alcohol service
+-	Smoking/non-smoking sections
+-	Comfortable dining environments.
+These additional conveniences improve customer experience and contribute to higher ratings
+4.	Medium to High Price Categories: Interestingly, many highly rated restaurants are not the cheapest options. Customers appear willing to spend more when they perceive value through:
+-	Better food
+-	Better service
+-	Better atmosphere
+Customers do not necessarily reward low prices; they reward value.
+Do Consumer Preferences Affect Ratings? The answer is Yes. When consumers visit restaurants that align with their preferred cuisine, ratings tend to be higher.
+Consumer preferences have a clear impact on ratings because customers tend to rate restaurants more favorably when the cuisine aligns with their personal tastes.
 
+2.	What are the consumer demographics? Does this indicate a bias in the data sample?  
+Analysis Approach (Visuals Used)
+-	Age Distribution
+-	Occupation Breakdown
+-	Marital Status Distribution
+-	Budget Distribution
 
-2. Department Response Trend Analysis (Top 5 Response Trend by Department) 
-> Yes, there are noticeable patterns across departments.
-- The Planning and Public Works Department recorded the highest number of survey responses (48%), indicating the highest level of participation among all departments. This department also showed the highest levels of both positive and negative responses, suggesting that employees have strong opinions about their workplace experiences.
-- The Sheriff’s Department and Human Services also contributed a significant number of responses and generally displayed more positive responses (Agree and Strongly Agree) than negative responses, indicating relatively higher employee satisfaction.
-> Across most departments, employees agree with statements related to:
-- Understanding what is expected of them at work.
-- Understanding the organization’s mission and purpose.
-- Having supportive workplace relationships.
-> However, a recurring trend across departments was dissatisfaction with:
-- Career advancement opportunities.
-- Recognition and rewards.
-- Overall job satisfaction.
-> This suggests that while employees generally understand their roles and work well with colleagues, there are organization-wide concerns regarding employee development, recognition, and long-term career growth.
+Consumer Demographics
+Age 
+-	The Average Age is 27 years old 
+-	The average consumer is relatively young.
+-	Most consumers fall within the early twenties age bracket.
+-	This suggests the dataset primarily reflects younger dining behaviors.
+Occupation
+-	The majority consumer respondent are Students with 86.67%
+-	 Employed Consumers have small percentage of 12.5% 
+-	Unemployed Consumers have the least percentage of 0.83% 
+Marital Status
+-	Most consumers are single people with percentage of 92.5%
+-	Very few respondents are married with percentage of 7.5%
+Budget
+-	Most consumers belong to medium-budget category with percentage of 69.17%
+-	Few consumers belong to Low-budget category with percentage of 27.5% 
+-	Very few consumers belong to high-budget category with percentage of 3.33% 
+Does This Indicate Sample Bias?
+-	The answer is YES 
+The sample is not representative of the overall restaurant market. The data heavily favors:
+-	Young adults
+-	Students
+-	Single individuals
+-	Medium-income consumers
+The following groups are underrepresented:
+-	Married couple
+-	Older adults
+-	High-income earners
+-	Corporate professionals
+Why This Matters
+Because most respondents are students, restaurant ratings may reflect:
+Student Priorities: 
+-	Affordable meals
+-	Quick service
+-	Casual dining
+Rather than priorities such as:
+-	Fine dining
+-	Business dining
+-	Family experiences
 
-Top 5 Departments include:
--	Finance and Performance Management 
--	Human Services 
--	Planning and Public Works ( has the highest across all response types)
--	Prosecuting Attorney's Office 
--	Sheriff’s Department
+3.	Are there any demand and supply gaps that you can exploit in the market?
+Analysis Approach
+-	Demand (Used Consumer Preferences)
+-	Supply (Used Restaurant cuisines) 
 
+Demand vs Supply Findings
+Several cuisines show significantly higher demand than available supply. Here is some highlight below: 
+-	Mexican Cuisine: This category has the largest demand. Many consumers prefer Mexican cuisine, yet the number of restaurants serving it is comparatively limited. Demand exceeds supply, this creates an opportunity for additional Mexican restaurants to enter the market.
+-	Coffee Shops: Consumer interest is relatively strong, however, very few coffee-focused establishments exist. Specialty coffee shops could attract substantial demand.
+-	Family Dining: Many consumers express interest in family-oriented dining experiences. Supply remains limited. So, Family-friendly restaurants could capture underserved customers.
+-	American Cuisine: Consumer demand is higher than current restaurant availability.
+Why Demand-Supply Gaps Matter
+When demand exceeds supply:
+-	Competition is lower
+-	Market opportunities increase
+-	Revenue potential improves
+-	Customer acquisition becomes easier
+So, in summary, the strongest opportunities exist in:
+-	Mexican Cuisine
+-	Coffee Shops
+-	Family Dining
+-	American Cuisine
+These categories appear underserved relative to consumer demand and represent attractive business opportunities.
 
-
-
-3. As an Employer, the steps I  would take to improve employee satisfaction based  on the survey results. I will take the following steps;
-> (A) Improve Career Development Opportunities
--	Provide training programs, mentorship, and clear promotion pathways to help employees grow professionally. 
-> (B) Enhance Employee Recognition
--	Introduce reward and recognition programs to acknowledge employees’ hard work and achievements.
-> (C ) Review Compensation and Benefits
--	Evaluate salaries and benefits to ensure they are competitive and aligned with employee expectations.
-> (D) Strengthen Leadership and Communication
--	Train managers to communicate effectively, provide regular feedback, and support employees’ needs.
-> (E) Increase Employee Engagement
--	Conduct regular surveys, feedback sessions, and team-building activities to ensure employees feel heard and valued.
-
-
-
-  
-4.  Top 5 Department  by Response
- > Shows top 5 departments with the highest number of survey questions response  that Shows positive, neutral, and negative responses for each department.
-- The department with highest response is Planning and Public works with 48% 
--	Finance and Performance Management (11%)
--	Human Services (10%)
--	Planning and Public Works (48%)
--	Prosecuting Attorney's Office ( 12%)
--	Sheriff’s Department ( 19%)
-
-
-
-5. Response Type Distribution
-Displays the proportion of:
--	Strongly Agree ( 36%)
--	Agree (39%)
--	Not Applicable (3%)
--	Disagree (15%)
--	Strongly Disagree (7%)
-Insight
-Approximately 75% of respondents provided positive feedback (Agree or Strongly Agree), indicating generally favorable employee sentiment despite concerns in specific areas.
-
+4.	If you were to invest in a restaurant, which characteristics would you be looking for?
+Based on all analyses, an ideal investment restaurant would possess the following characteristics.
+-	Operate in a High-Demand Cuisine Category
+-	Focus on Food Quality (the strongest driver of ratings is food quality), Investment should focus on ingredient quality, menu consistency, chef expertise and product innovation. Food quality directly influences customer loyalty.
+-	Deliver Excellent Service, high-performing restaurants consistently provide friendly staff, fast response times and professional customer service. Service quality significantly affects repeat business.
+-	Offer Customer Convenience, Top-rated restaurants commonly provide; parking feature, comfortable seating, accessible locations and pleasant dining environments. Convenience improves customer satisfaction.
+-	Use a value-based pricing strategy, this data suggests customers reward value rather than simply low prices, medium-price strategy often performs better because it balances; affordability, perceived quality and profitability
+-	Additional Revenue Streams, from the data, restaurants offering; wine, beer and beverage options often generate higher customer spending and improved profitability.
 
 ### INTERACTIVE ANALYSIS
 The dashboard includes two interactive slicers that allow users to dynamically filter and explore survey responses . 

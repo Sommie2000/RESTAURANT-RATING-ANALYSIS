@@ -99,7 +99,8 @@ The dashboard presents key performance indicators and interactive visualizations
    Insight  
 
 1.	Strong Food Quality: Restaurants with the highest overall ratings consistently share several characteristics and also tend to score highly on food ratings. This indicates that food quality remains the primary factor influencing customer satisfaction.
-2.	Excellent Service Quality: Restaurants with strong service ratings also maintain higher overall ratings.Customers appreciate; 
+2.	Excellent Service Quality:
+> Restaurants with strong service ratings also maintain higher overall ratings.Customers appreciate; 
 -	 Fast service
 -	Friendly Staff
 -	 Professional treatment

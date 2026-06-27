@@ -207,45 +207,18 @@ The dashboard presents key performance indicators and interactive visualizations
 -	Additional Revenue Streams, from the data, restaurants offering; wine, beer and beverage options often generate higher customer spending and improved profitability.
 
 ### INTERACTIVE ANALYSIS
-The dashboard includes two interactive slicers that allow users to dynamically filter and explore survey responses . 
-The interactive slicers provide flexibility for users to drill down into specific departments and response text, making it easier to identify trends, compare employee perceptions, and support data-driven decision-making.
-1. Response Text Slicer
-This slicer enables users to filter survey responses based on response categories:
--	Agree
--	Strongly Agree
--	Disagree
--	Strongly Disagree
--	Not Applicable
-Purpose: Helps stakeholders analyze employee sentiment and identify areas of satisfaction or dissatisfaction across the organization.
-2. Department Slicer
-This slicer allows users to filter the dashboard by specific departments, including:
--	Finance and Performance Management
--	Human Service
--	Planning and Public Works
--	Prosecuting Attorney’s Office
--	Sheriff’s Department
--	Other departments in the dataset
-Purpose: Enables comparison of employee satisfaction levels and response patterns across departments.
+Slicers allow users to explore the data without making the dashboard feel cluttered.
+> Slicers used in the dashboard: 
+-	Restaurant Cuisine (Allows users to filter the dashboard by cuisine) 
+-	City (Allows users to filter dashboard by city) 
 
 
 ### RECOMMENDATION
-1. Improve Career Growth Opportunities
--	Create transparent promotion pathways.
--	Offer professional programs.
--	Introduce mentorship initiatives.
-2. Strengthen Employee Recognition
--	Implement employee recognition programs.
--	Celebrate outstanding performance regularly
--	Introduce performance-based incentives.
-3. Enhance Leadership Effectiveness
--	Provide leadership and communication training
--	Encourage frequent manager-employee feedback sessions.
--	Improve supervisor accountability.
-4. Increase Employee Engagement
--	Conduct quarterly employee surveys.
--	Organize team-building activities.
--	Create channels for anonymous employee feedback.
-5. Monitor Departmental Satisfaction
--	Focus interventions on departments with higher negative response rates
--	Develop department-specific engagement strategies.
+-	Invest in high-demand cuisine categories, particularly Mexican cuisine, where consumer demand remains strong.
+-	Prioritize food quality and customer service, as these are the strongest drivers of customer satisfaction.
+-	Adopt a value-based pricing strategy, with a focus on medium-priced offerings that appeal to the largest consumer segment.
+-	Expand into underserved cuisine categories identified through the demand-versus-supply analysis.
+-	Consider the demographic profile of the target market when developing restaurant concepts and marketing strategies.
 
+### CONCLUSION
+This analysis highlights the key factors that drive restaurant success, including food quality, service, pricing, and consumer preferences. The dashboard identifies high-performing restaurants, reveals consumer demographic trends, and uncovers market opportunities where demand exceeds supply. Overall, the insights provide valuable guidance for restaurant owners, entrepreneurs, and investors to make informed, data-driven decisions that enhance customer satisfaction and support business growth.

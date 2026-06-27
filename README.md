@@ -89,7 +89,7 @@ The dashboard presents key performance indicators and interactive visualizations
 
 ### KEY INSIGHT
 1.	What can you learn from the highest-rated restaurants? Do consumer preferences have an effect on ratings?
-   The top 5 restaurants by Average Overall rating include: 
+> The top 5 restaurants by Average Overall rating include: 
 -	Michiko Restaurant Japones (The highest overall rating) 
 -	Restaurants La Parroquia 
 -	La Cochinita Pibil Restaurante

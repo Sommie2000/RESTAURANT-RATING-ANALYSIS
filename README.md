@@ -88,7 +88,7 @@ The dashboard presents key performance indicators and interactive visualizations
 
 
 ### KEY INSIGHT
-1.	What can you learn from the highest-rated restaurants? Do consumer preferences have an effect on ratings?
+##### 1.	What can you learn from the highest-rated restaurants? Do consumer preferences have an effect on ratings?
 > The top 5 restaurants by Average Overall rating include: 
 -	Michiko Restaurant Japones (The highest overall rating) 
 -	Restaurants La Parroquia 
@@ -96,7 +96,7 @@ The dashboard presents key performance indicators and interactive visualizations
 -	Mari’s is El Pescador 
 -	Restaurant Bar Hacienda 
 
-   Insight  
+   ###### Insight  
 
 1.	Strong Food Quality: Restaurants with the highest overall ratings consistently share several characteristics and also tend to score highly on food ratings. This indicates that food quality remains the primary factor influencing customer satisfaction.
 2.	Excellent Service Quality:
@@ -125,43 +125,45 @@ The dashboard presents key performance indicators and interactive visualizations
 >  When consumers visit restaurants that align with their preferred cuisine, ratings tend to be higher.
 > Consumer preferences have a clear impact on ratings because customers tend to rate restaurants more favorably when the cuisine aligns with their personal tastes.
 
-2.	What are the consumer demographics? Does this indicate a bias in the data sample?  
+
+
+##### 2.	What are the consumer demographics? Does this indicate a bias in the data sample?  
 > Analysis Approach (Visuals Used)
 -	Age Distribution
 -	Occupation Breakdown
 -	Marital Status Distribution
 -	Budget Distribution
 
-> Consumer Demographics
-Age 
+ ###### Consumer Demographics
+> Age 
 -	The Average Age is 27 years old 
 -	The average consumer is relatively young.
 -	Most consumers fall within the early twenties age bracket.
 -	This suggests the dataset primarily reflects younger dining behaviors.
-Occupation
+> Occupation
 -	The majority consumer respondent are Students with 86.67%
 -	 Employed Consumers have small percentage of 12.5% 
 -	Unemployed Consumers have the least percentage of 0.83% 
-Marital Status
+> Marital Status
 -	Most consumers are single people with percentage of 92.5%
 -	Very few respondents are married with percentage of 7.5%
-Budget
+> Budget
 -	Most consumers belong to medium-budget category with percentage of 69.17%
 -	Few consumers belong to Low-budget category with percentage of 27.5% 
 -	Very few consumers belong to high-budget category with percentage of 3.33% 
-Does This Indicate Sample Bias?
--	The answer is YES 
-The sample is not representative of the overall restaurant market. The data heavily favors:
+> Does This Indicate Sample Bias?
+-	The answer is YES, the sample is not representative of the overall restaurant market.
+>  The data heavily favors:
 -	Young adults
 -	Students
 -	Single individuals
 -	Medium-income consumers
-The following groups are underrepresented:
+> The following groups are underrepresented:
 -	Married couple
 -	Older adults
 -	High-income earners
 -	Corporate professionals
-Why This Matters
+###### Why This Matters
 > Because most respondents are students, restaurant ratings may reflect:
 > Student Priorities: 
 -	Affordable meals
@@ -172,12 +174,12 @@ Why This Matters
 -	Business dining
 -	Family experiences
 
-3.	Are there any demand and supply gaps that you can exploit in the market?
+##### 3.	Are there any demand and supply gaps that you can exploit in the market?
 > Analysis Approach
 -	Demand (Used Consumer Preferences)
 -	Supply (Used Restaurant cuisines) 
 
- Demand vs Supply Findings
+###### Demand vs Supply Findings
 > Several cuisines show significantly higher demand than available supply. Here is some highlight below: 
 -	Mexican Cuisine: This category has the largest demand. Many consumers prefer Mexican cuisine, yet the number of restaurants serving it is comparatively limited. Demand exceeds supply, this creates an opportunity for additional Mexican restaurants to enter the market.
 -	Coffee Shops: Consumer interest is relatively strong, however, very few coffee-focused establishments exist. Specialty coffee shops could attract substantial demand.
@@ -189,14 +191,14 @@ Why This Matters
 -	Market opportunities increase
 -	Revenue potential improves
 -	Customer acquisition becomes easier
-So, in summary, the strongest opportunities exist in:
+> So, in summary, the strongest opportunities exist in:
 -	Mexican Cuisine
 -	Coffee Shops
 -	Family Dining
 -	American Cuisine
-These categories appear underserved relative to consumer demand and represent attractive business opportunities.
+> These categories appear underserved relative to consumer demand and represent attractive business opportunities.
 
-4.	If you were to invest in a restaurant, which characteristics would you be looking for?
+##### 4.	If you were to invest in a restaurant, which characteristics would you be looking for?
 > Based on all analyses, an ideal investment restaurant would possess the following characteristics.
 -	Operate in a High-Demand Cuisine Category
 -	Focus on Food Quality (the strongest driver of ratings is food quality), Investment should focus on ingredient quality, menu consistency, chef expertise and product innovation. Food quality directly influences customer loyalty.

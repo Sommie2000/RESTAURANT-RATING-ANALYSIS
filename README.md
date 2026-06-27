@@ -105,29 +105,34 @@ The dashboard presents key performance indicators and interactive visualizations
 -	Friendly Staff
 -	 Professional treatment
 -	 Prompt issue resolution. 
-A restaurant can lose customers despite having excellent food if service delivery is poor.
-3.	Better Amenities: Many top-rated restaurants provide:
+> A restaurant can lose customers despite having excellent food if service delivery is poor.
+3.	Better Amenities:
+> Many top-rated restaurants provide:
 -	Parking facilities
 -	Alcohol service
 -	Smoking/non-smoking sections
 -	Comfortable dining environments.
-These additional conveniences improve customer experience and contribute to higher ratings
-4.	Medium to High Price Categories: Interestingly, many highly rated restaurants are not the cheapest options. Customers appear willing to spend more when they perceive value through:
+> These additional conveniences improve customer experience and contribute to higher ratings
+4.	Medium to High Price Categories:
+> Interestingly, many highly rated restaurants are not the cheapest options.
+> Customers appear willing to spend more when they perceive value through:
 -	Better food
 -	Better service
 -	Better atmosphere
-Customers do not necessarily reward low prices; they reward value.
-Do Consumer Preferences Affect Ratings? The answer is Yes. When consumers visit restaurants that align with their preferred cuisine, ratings tend to be higher.
-Consumer preferences have a clear impact on ratings because customers tend to rate restaurants more favorably when the cuisine aligns with their personal tastes.
+> Customers do not necessarily reward low prices; they reward value.
+> Do Consumer Preferences Affect Ratings?
+- The answer is Yes
+>  When consumers visit restaurants that align with their preferred cuisine, ratings tend to be higher.
+> Consumer preferences have a clear impact on ratings because customers tend to rate restaurants more favorably when the cuisine aligns with their personal tastes.
 
 2.	What are the consumer demographics? Does this indicate a bias in the data sample?  
-Analysis Approach (Visuals Used)
+> Analysis Approach (Visuals Used)
 -	Age Distribution
 -	Occupation Breakdown
 -	Marital Status Distribution
 -	Budget Distribution
 
-Consumer Demographics
+> Consumer Demographics
 Age 
 -	The Average Age is 27 years old 
 -	The average consumer is relatively young.
@@ -157,29 +162,29 @@ The following groups are underrepresented:
 -	High-income earners
 -	Corporate professionals
 Why This Matters
-Because most respondents are students, restaurant ratings may reflect:
-Student Priorities: 
+> Because most respondents are students, restaurant ratings may reflect:
+> Student Priorities: 
 -	Affordable meals
 -	Quick service
 -	Casual dining
-Rather than priorities such as:
+> Rather than priorities such as:
 -	Fine dining
 -	Business dining
 -	Family experiences
 
 3.	Are there any demand and supply gaps that you can exploit in the market?
-Analysis Approach
+> Analysis Approach
 -	Demand (Used Consumer Preferences)
 -	Supply (Used Restaurant cuisines) 
 
-Demand vs Supply Findings
-Several cuisines show significantly higher demand than available supply. Here is some highlight below: 
+ Demand vs Supply Findings
+> Several cuisines show significantly higher demand than available supply. Here is some highlight below: 
 -	Mexican Cuisine: This category has the largest demand. Many consumers prefer Mexican cuisine, yet the number of restaurants serving it is comparatively limited. Demand exceeds supply, this creates an opportunity for additional Mexican restaurants to enter the market.
 -	Coffee Shops: Consumer interest is relatively strong, however, very few coffee-focused establishments exist. Specialty coffee shops could attract substantial demand.
 -	Family Dining: Many consumers express interest in family-oriented dining experiences. Supply remains limited. So, Family-friendly restaurants could capture underserved customers.
 -	American Cuisine: Consumer demand is higher than current restaurant availability.
-Why Demand-Supply Gaps Matter
-When demand exceeds supply:
+> Why Demand-Supply Gaps Matter
+> When demand exceeds supply:
 -	Competition is lower
 -	Market opportunities increase
 -	Revenue potential improves
@@ -192,7 +197,7 @@ So, in summary, the strongest opportunities exist in:
 These categories appear underserved relative to consumer demand and represent attractive business opportunities.
 
 4.	If you were to invest in a restaurant, which characteristics would you be looking for?
-Based on all analyses, an ideal investment restaurant would possess the following characteristics.
+> Based on all analyses, an ideal investment restaurant would possess the following characteristics.
 -	Operate in a High-Demand Cuisine Category
 -	Focus on Food Quality (the strongest driver of ratings is food quality), Investment should focus on ingredient quality, menu consistency, chef expertise and product innovation. Food quality directly influences customer loyalty.
 -	Deliver Excellent Service, high-performing restaurants consistently provide friendly staff, fast response times and professional customer service. Service quality significantly affects repeat business.

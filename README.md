@@ -88,7 +88,7 @@ The dashboard presents key performance indicators and interactive visualizations
 
 
 ### KEY INSIGHT
-##### 1.	What can you learn from the highest-rated restaurants? Do consumer preferences have an effect on ratings?
+#### 1.	What can you learn from the highest-rated restaurants? Do consumer preferences have an effect on ratings?
 > The top 5 restaurants by Average Overall rating include: 
 -	Michiko Restaurant Japones (The highest overall rating) 
 -	Restaurants La Parroquia 
@@ -127,7 +127,7 @@ The dashboard presents key performance indicators and interactive visualizations
 
 
 
-##### 2.	What are the consumer demographics? Does this indicate a bias in the data sample?  
+#### 2.	What are the consumer demographics? Does this indicate a bias in the data sample?  
 > Analysis Approach (Visuals Used)
 -	Age Distribution
 -	Occupation Breakdown
@@ -174,7 +174,7 @@ The dashboard presents key performance indicators and interactive visualizations
 -	Business dining
 -	Family experiences
 
-##### 3.	Are there any demand and supply gaps that you can exploit in the market?
+#### 3.	Are there any demand and supply gaps that you can exploit in the market?
 > Analysis Approach
 -	Demand (Used Consumer Preferences)
 -	Supply (Used Restaurant cuisines) 
@@ -198,7 +198,7 @@ The dashboard presents key performance indicators and interactive visualizations
 -	American Cuisine
 > These categories appear underserved relative to consumer demand and represent attractive business opportunities.
 
-##### 4.	If you were to invest in a restaurant, which characteristics would you be looking for?
+#### 4.	If you were to invest in a restaurant, which characteristics would you be looking for?
 > Based on all analyses, an ideal investment restaurant would possess the following characteristics.
 -	Operate in a High-Demand Cuisine Category
 -	Focus on Food Quality (the strongest driver of ratings is food quality), Investment should focus on ingredient quality, menu consistency, chef expertise and product innovation. Food quality directly influences customer loyalty.

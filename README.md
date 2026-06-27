@@ -63,14 +63,21 @@ COLUMNS:
 -	Power Query
 -	Data Visualization
 
+  
 ### KEY SKILLS APPLIED
--	Data Cleaning and Transformation
-  > I transform the data in power query, then I removed duplicate and empty values and I also replace a question “This year, I have the opportunities to learn & grow” to “This year, I have the opportunities to learn and grow” 
--	Survey Analytics
--	KPI Design
--	Data Storytelling
+- Data Gathering, Cleaning and Transformation
+ > Data was imported into Power BI then it was transformed by power query where cleaning, exploration and transformation were carried out.
+- Data Modelling
+
+<img width="1243" height="508" alt="Restaurant Modelling" src="https://github.com/user-attachments/assets/a3da510d-29e4-4926-b9fc-a81ee0704476" />
+
+
+- New Measures and DAX Expressions 
+> Key performance indicators (KPIs) were calculated using New Measures and DAX
+- Data Visualization	Slicers were added to allow leadership to filter into specific customer segments when needed.
+- Data Storytelling
 -	Business Intelligence
--	Excel Visualization
+-	Survey Analytics
 
 
 ### VISUALIZATION

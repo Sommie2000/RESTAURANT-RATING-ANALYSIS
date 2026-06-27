@@ -42,15 +42,6 @@ The Restaurant Rating Dataset contains information on restaurants located in Mex
 -	Restaurant pricing and other operational attributes
 
 
-[Dataset file in Power BI][Uploading Restaurant Rating.pbix…]()
-
-
-
-### TOOLS 
--	Microsoft Power BI
--	Power Query
--	Data Visualization
-
   
 ### KEY SKILLS APPLIED
 - Data Gathering, Cleaning and Transformation
@@ -71,26 +62,23 @@ The Restaurant Rating Dataset contains information on restaurants located in Mex
 
 
 ### VISUALIZATION
-
-KPI (Key Performance Indicator Metrics)
-1. Total Responses
-Measures the total number of survey responses received which is 14,575
-2. Positive Responses
-Measures the number of respondents who selected:
--	Strongly Agree: 5,229
--	Agree : 5731
-Total Positive Responses: 10960
-3. Negative Responses
-Measures the number of respondents who selected:
--	Disagree: 2160
--	Strongly Disagree : 1061
--	Not Applicable : 394 
-Total Negative Responses : 3615
-
-4. Employee Satisfaction Rate (54%)
-Measures the percentage of positive responses out of total responses.
-Formula used : Positive Responses / Total Responses * 100  = 54%
-
+The dashboard presents key performance indicators and interactive visualizations, including:
+> Key Performance Indicators (KPIs)
+-	Total Restaurants: 56
+-	Total Consumers: 120
+-	Total Ratings: 1,161
+-	Average Age: 27 Years
+-	Average Overall Rating: 1.20
+-	Average Food Rating: 1.22
+> Interactive Visuals
+-	Top 5 Restaurants by Average Overall Rating
+-	Top 5 Restaurants by Average Food Rating
+-	Restaurant Supply by Cuisine
+-	Consumer Demand by Cuisine
+-	Average Overall Rating by Price Category
+-	Occupation Distribution
+-	Marital Status Distribution
+-	Budget Distribution
 
 
 ##### DASHBOARD

@@ -1,14 +1,19 @@
 # RESTAURANT-RATING-ANALYSIS
 
 ### PROJECT OVERVIEW
-This project analyzes employee satisfaction survey data to identify key factors influencing employee engagement, satisfaction, and workplace experience. The analysis focuses on employee responses conducted by Pierce County WA and completed voluntarily by government employees across different departments and roles to uncover trends, strengths, and areas requiring improvement.
+The Restaurant Rating Analysis project explores customer satisfaction, restaurant performance, consumer demographics, and market opportunities using the Restaurant Rating Dataset. The analysis was developed in Power BI to uncover actionable insights that can support restaurant owners, entrepreneurs, and investors in making data-driven business decisions.
+The interactive dashboard provides a comprehensive overview of restaurant ratings, customer preferences, cuisine demand, pricing trends, and consumer characteristics, enabling stakeholders to better understand the factors that influence restaurant success. 
+
 
 ### OBJECTIVE
-The primary objectives of this analysis are:
--	Identify survey questions with the highest agreement and disagreement levels.
--	Analyze satisfaction patterns across departments 
--	Measure overall employee satisfaction.
--	Provide actionable recommendations to improve employee experience and retention.
+This analysis aims to:
+-	Identify the characteristics of the highest-rated restaurants.
+-	Understand how consumer preferences influence restaurant ratings.
+-	Analyze consumer demographics and identify potential sampling bias.
+-	Compare consumer demand with restaurant supply across cuisine categories.
+-	Identify underserved market segments and investment opportunities.
+-	Provide business recommendations based on data-driven insights.
+
 
 
 ### TABLE OF CONTENT
@@ -27,30 +32,14 @@ The primary objectives of this analysis are:
 
 
 ### DATASET OVERVIEW
-
-COLUMNS:
-- Response ID
-- Status
-- Department
-- Director
-- Manager
-- Supervisor
-- Staff
-- Question
-- Response
-- Response Text
-
-
-##### DATASET SAMPLE PREVIEW
-
-|Response ID|	Status|	Department|	Director|	Manager|	Supervisor|	Staff| Question| Response| Response Text|
-|-----------|-------|-----------|---------|---------|-----------|------|---------|---------|--------------|
-|1|	Complete|	Human Resources|	0|	1|	0|	0|	1. I know what is expected of me at work|	4|	Strongly Agree|
-|2|	Complete|	Communications Office|	0|	0|	0|	0|	1. I know what is expected of me at work|	4|	Strongly Agree|
-|3|	Complete|	Parks and Recreation|	0|	1|	0|	0|	1. I know what is expected of me at work|	0|	Not Applicable|
-|4|	Complete|	Human Resources|	0|	1|	0|	0|	1. I know what is expected of me at work|	3|	Agree|
-|5|	Complete|	Communications Office|	0|	0|	0|	0|	1. I know what is expected of me at work|	0|	Not Applicable|
-|6|	Complete|	Prosecuting Attorney's Office|	0|	0|	0|	0|	1. I know what is expected of me at work|	4|	Strongly Agree|
+The Restaurant Rating Dataset contains information on restaurants located in Mexico, collected through a customer survey conducted in 2012.
+> The dataset includes details on:
+-	Restaurant information and characteristics
+-	Restaurant cuisines
+-	Customer ratings (Overall, Food, and Service)
+-	Consumer demographics (Age, Occupation, Marital Status, Budget, Country, City, Children)
+-	Consumer cuisine preferences
+-	Restaurant pricing and other operational attributes
 
 
 [Dataset file in Power BI][Uploading Restaurant Rating.pbix…]()
@@ -58,7 +47,7 @@ COLUMNS:
 
 
 ### TOOLS 
--	Microsoft Excel
+-	Microsoft Power BI
 -	Power Query
 -	Data Visualization
 
@@ -77,6 +66,8 @@ COLUMNS:
 - Data Storytelling
 -	Business Intelligence
 -	Survey Analytics
+
+
 
 
 ### VISUALIZATION

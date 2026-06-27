@@ -20,7 +20,6 @@ This analysis aims to:
 * [Project Overview](#project-overview)
 * [Objectives](#objectives)
 * [Dataset Overview](#dataset-overview)
-* [Tools](#tools)
 * [Key Skills Applied](#key-skills-applied)
 * [Visualization](#visualization)
 * [Key Insight](#key-insight)
@@ -63,14 +62,14 @@ The Restaurant Rating Dataset contains information on restaurants located in Mex
 
 ### VISUALIZATION
 The dashboard presents key performance indicators and interactive visualizations, including:
-> Key Performance Indicators (KPIs)
+#### Key Performance Indicators (KPIs)
 -	Total Restaurants: 56
 -	Total Consumers: 120
 -	Total Ratings: 1,161
 -	Average Age: 27 Years
 -	Average Overall Rating: 1.20
 -	Average Food Rating: 1.22
-> Interactive Visuals
+#### Interactive Visuals
 -	Top 5 Restaurants by Average Overall Rating
 -	Top 5 Restaurants by Average Food Rating
 -	Restaurant Supply by Cuisine

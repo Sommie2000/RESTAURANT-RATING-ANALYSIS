@@ -220,5 +220,9 @@ Slicers allow users to explore the data without making the dashboard feel clutte
 -	Expand into underserved cuisine categories identified through the demand-versus-supply analysis.
 -	Consider the demographic profile of the target market when developing restaurant concepts and marketing strategies.
 
+
+### DATA SOURCE
+[Download Here](https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N6xf/view?usp=drive_link)
+
 ### CONCLUSION
 This analysis highlights the key factors that drive restaurant success, including food quality, service, pricing, and consumer preferences. The dashboard identifies high-performing restaurants, reveals consumer demographic trends, and uncovers market opportunities where demand exceeds supply. Overall, the insights provide valuable guidance for restaurant owners, entrepreneurs, and investors to make informed, data-driven decisions that enhance customer satisfaction and support business growth.

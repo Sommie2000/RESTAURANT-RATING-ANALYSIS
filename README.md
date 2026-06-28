@@ -1,6 +1,6 @@
 # RESTAURANT-RATING-ANALYSIS
 
-<img width="686" height="1200" alt="mexico restaurant image" src="https://github.com/user-attachments/assets/7b773076-efa6-4584-a011-4b87828567ff" />
+<img width="1080" height="1080" alt="main restaurant image " src="https://github.com/user-attachments/assets/d609784a-5952-4ca2-a7bb-c4bd4524fbb5" />
 
 ### PROJECT OVERVIEW
 The Restaurant Rating Analysis project explores customer satisfaction, restaurant performance, consumer demographics, and market opportunities using the Restaurant Rating Dataset. The analysis was developed in Power BI to uncover actionable insights that can support restaurant owners, entrepreneurs, and investors in making data-driven business decisions.

@@ -64,6 +64,9 @@ The Restaurant Rating Dataset contains information on restaurants located in Mex
 The dashboard presents key performance indicators and interactive visualizations, including:
 #### Key Performance Indicators (KPIs)
 -	Total Restaurants: 56
+```DAX
+=TOTAL RESTAURANT(COUNT(Restaurants[Restaurant_Id])
+```
 -	Total Consumers: 120
 -	Total Ratings: 1,161
 -	Average Age: 27 Years
